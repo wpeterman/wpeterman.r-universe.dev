@@ -12,6 +12,10 @@
     "url": "https://github.com/wpeterman/multiscaler"
   },
   {
+    "package": "ResistanceGA2",
+    "url": "https://github.com/wpeterman/ResistanceGA2"
+  },
+  {
     "package": "terradish",
     "url": "https://github.com/wpeterman/terradish"
   }
