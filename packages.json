@@ -1,5 +1,17 @@
 [
   {
+    "package": "corMLPE",
+    "url": "https://github.com/wpeterman/cormlpe"
+  },
+  {
+    "package": "landgraph",
+    "url": "https://github.com/wpeterman/landgraph"
+  },
+  {
+    "package": "multiScaleR",
+    "url": "https://github.com/wpeterman/multiscaler"
+  },
+  {
     "package": "terradish",
     "url": "https://github.com/wpeterman/terradish"
   }
